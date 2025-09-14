@@ -1,0 +1,20 @@
+Does the sun rise from the east?|Yes
+Is the Earth flat?|No
+Does water boil at 100 degrees Celsius?|Yes
+Can humans breathe in space without help?|No
+Is Python a programming language?|Yes
+Is 10 greater than 20?|No
+Do birds have wings?|Yes
+Is ice hotter than fire?|No
+Can fish swim?|Yes
+Is 5 a prime number?|Yes
+Does the moon produce its own light?|No
+Is the Nile the longest river in the world?|Yes
+Do cats bark?|No
+Is zero an even number?|Yes
+Is Africa a country?|No
+Do humans need oxygen to survive?|Yes
+Is Mount Everest the tallest mountain on Earth?|Yes
+Can elephants fly?|No
+Is the Pacific Ocean the largest ocean on Earth?|Yes
+Do penguins live in the desert?|No
